@@ -1,1 +1,2 @@
- this_is a story
+ this_is a story.
+This is a great story.
